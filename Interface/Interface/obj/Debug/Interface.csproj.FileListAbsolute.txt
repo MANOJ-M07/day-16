@@ -1,0 +1,8 @@
+D:\simplilearn\day-16\Interface\Interface\bin\Debug\Interface.exe.config
+D:\simplilearn\day-16\Interface\Interface\bin\Debug\Interface.exe
+D:\simplilearn\day-16\Interface\Interface\bin\Debug\Interface.pdb
+D:\simplilearn\day-16\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\simplilearn\day-16\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-16\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-16\Interface\Interface\obj\Debug\Interface.exe
+D:\simplilearn\day-16\Interface\Interface\obj\Debug\Interface.pdb

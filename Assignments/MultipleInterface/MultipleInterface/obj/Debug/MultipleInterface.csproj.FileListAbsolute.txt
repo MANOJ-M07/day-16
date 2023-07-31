@@ -1,0 +1,8 @@
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\bin\Debug\MultipleInterface.exe.config
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\bin\Debug\MultipleInterface.exe
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\bin\Debug\MultipleInterface.pdb
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.csproj.AssemblyReference.cache
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.exe
+D:\simplilearn\day-16\Assignments\MultipleInterface\MultipleInterface\obj\Debug\MultipleInterface.pdb
